@@ -2,7 +2,7 @@
 
 ### Frontend Developer | React | AWS | Docker  
 
-A passionate Frontend Developer focused on building scalable web applications and deploying them using Docker and AWS EC2.
+A passionate full stack developer focused on building scalable web applications and deploying them using Docker and AWS EC2.
 
 ---
 
