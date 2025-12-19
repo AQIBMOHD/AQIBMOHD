@@ -1,6 +1,6 @@
 # Hi 👋, I'm Md Aqib  
 
-### Frontend Developer | React | AWS | Docker  
+### Full Stack Developer | React | AWS | Docker  
 
 A passionate full stack developer focused on building scalable web applications and deploying them using Docker and AWS EC2.
 
