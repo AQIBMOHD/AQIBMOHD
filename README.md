@@ -1,144 +1,103 @@
-# Hi 👋, I'm Md Aqib
+# 👋 Hi, I'm Md Aqib
 
-### Full Stack & DevOps Engineer | Azure | Terraform | Azure DevOps | Docker | Linux
+🚀 **Full Stack & DevOps Engineer | Azure | Terraform | Azure DevOps | Docker | Linux**
 
-Passionate about building scalable web applications and designing secure, production-ready cloud infrastructure on Microsoft Azure using Terraform and DevOps best practices. I enjoy automating infrastructure, implementing CI/CD pipelines, and developing enterprise-grade cloud solutions.
+Passionate about building scalable web applications and designing secure, production-grade cloud infrastructure on Microsoft Azure. I enjoy automating infrastructure using Terraform, implementing CI/CD pipelines, and following enterprise DevOps best practices.
 
 ---
 
-## 🔭 Currently Working On
+## 🧰 Tech Stack & Tools
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?logo=azuredevops&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+
+**Cloud:** Microsoft Azure, AWS
+
+**Infrastructure as Code:** Terraform
+
+**DevOps:** Azure DevOps, Git, CI/CD
+
+**Containers:** Docker, Kubernetes (Learning AKS)
+
+**Frontend:** React, Angular, HTML, CSS, JavaScript, Tailwind CSS
+
+**Backend:** Node.js, Express.js, MongoDB
+
+---
+
+## 🧠 Currently Working On
 
 - Production-Grade Azure Infrastructure using Terraform
 - Azure DevOps CI/CD Pipelines
+- Hub-and-Spoke Azure Architecture
 - Infrastructure as Code (IaC)
-- Hub-and-Spoke Network Architecture
 - Azure Networking & Security
 - GitOps & Platform Engineering
 - Azure Landing Zones
 - Kubernetes (AKS)
 - Azure Monitor & Log Analytics
 - Azure Firewall & Web Application Firewall (WAF)
-- Docker & Linux Administration
 
 ---
 
-## 📫 Contact
+## 🏗️ Featured Project
 
-**Email:** **aqibmohammad.0002@gmail.com**
+### 🚀 Production-Grade Azure Infrastructure Automation (Terraform & Azure DevOps)
 
----
+Designed and automated an enterprise-grade Azure infrastructure following Infrastructure-as-Code and DevOps best practices.
 
-## 🌐 Connect with Me
+### Key Highlights
 
-<p align="left">
+- ✅ Designed Hub-and-Spoke Azure Network Architecture
+- ✅ Configured Azure Application Gateway (Standard_v2)
+- ✅ Implemented VNet Peering and Multi-tier Networking
+- ✅ Created Frontend & Backend Linux Virtual Machines
+- ✅ Implemented Network Security Groups (NSGs)
+- ✅ Refactored monolithic Terraform into reusable modules
+- ✅ Zero-downtime Terraform state migration using `moved` blocks
+- ✅ Azure Blob Storage Remote Backend with State Locking
+- ✅ Dynamic SSH allowlisting using HTTP Data Source
+- ✅ DRY implementation using Terraform Dynamic Blocks
+- ✅ Centralized Naming Convention using Locals
+- ✅ Automated Infrastructure Deployment using Azure DevOps Pipelines
+- ✅ Configured Workload Identity Federation for secure authentication
 
-<a href="https://www.linkedin.com/in/md-aqib-b6b429187/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-</a>
+**Technologies**
 
-<a href="https://github.com/AQIBMOHD" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" height="40"/>
-</a>
-
-<a href="https://aqib-portfolio-seven.vercel.app" target="_blank">
-<img src="https://skillicons.dev/icons?i=vercel" height="40"/>
-</a>
-
-</p>
-
----
-
-# 🛠️ Tech Stack
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=azure,terraform,docker,kubernetes,linux,bash,git,github,githubactions,aws,react,nodejs,express,mongodb,vscode, antigravity" />
-
-</p>
+Azure • Terraform • Azure DevOps • Docker • Linux • Git • HCL • Application Gateway • VNet Peering • NSG • Azure Storage • CI/CD
 
 ---
 
-# 🚀 Featured Project
+## 💻 Other Projects
 
-## Production-Grade Azure Infrastructure Automation using Terraform & Azure DevOps
+### 🎓 MentorWay
 
-Designed and automated a production-style Azure infrastructure using Terraform by implementing enterprise Infrastructure-as-Code practices, secure networking, GitOps automation, and modular architecture.
+Full-stack MERN e-learning platform with authentication, instructor dashboard, course management, custom video player, and Razorpay payment integration.
 
-### ☁️ Cloud Architecture
+### 🍔 Swiggy Food App
 
-- Designed a secure Hub-and-Spoke Azure Network Architecture
-- Created dedicated Hub and Spoke Virtual Networks
-- Configured bidirectional VNet Peering
-- Implemented Frontend and Backend Subnets
-- Deployed Linux Virtual Machines for application tiers
-- Configured static Private IP addressing
-- Implemented Azure Application Gateway (Standard_v2)
-- Configured Backend Pools, HTTP Listener, and Routing Rules
-- Reserved Azure Firewall subnet for centralized security
-- Implemented Network Security Groups with subnet associations
+Responsive React application consuming REST APIs with reusable component architecture.
 
-### 🏗️ Infrastructure as Code
-
-- Refactored a monolithic Terraform codebase into reusable modules
-- Created dedicated modules for Resource Group, Networking, Security, and Compute
-- Implemented reusable variables, outputs, and locals
-- Applied DRY principles using dynamic blocks
-- Used Terraform data sources to reference existing Azure resources
-
-### ⚙️ Advanced Terraform
-
-- Zero-downtime state migration using HCL `moved` blocks
-- Azure Blob Storage Remote Backend
-- Remote State Locking
-- Dynamic NSG Security Rules
-- HTTP Data Source for automatic public IP detection
-- Runtime SSH allowlisting using `/32`
-- Reusable Terraform modules
-- Variable-driven infrastructure deployment
-
-### 🔐 Security
-
-- Backend VM accessible only from the Frontend subnet
-- Dynamic SSH restriction to operator public IP
-- Private backend architecture
-- Layered NSG implementation
-- Controlled subnet communication
-- Secure remote state management
-
-### 🚀 Azure DevOps Automation
-
-- Built a complete GitOps workflow
-- Configured Azure DevOps Pipelines
-- Automated Terraform Init, Plan, and Apply
-- Configured Workload Identity Federation
-- Implemented secure Service Connection authentication
-- Enabled Continuous Infrastructure Deployment
-
-### 🛠️ Technologies
-
-**Azure • Terraform • Azure DevOps • HCL • Git • GitHub • Docker • Linux • Application Gateway • VNet Peering • NSG • Azure Storage • CI/CD**
-
----
-
-# 💻 Other Projects
-
-### MentorWay
-
-Full-stack e-learning platform built with the MERN stack, featuring a custom course player, instructor dashboard, and integrated Razorpay payments.
-
-### Swiggy Food App
-
-React application consuming REST APIs with a responsive UI and reusable component architecture.
-
-### Raah Foundation
+### ❤️ Raah Foundation Website
 
 Production-ready React application deployed using Docker and Nginx.
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="left">
+<p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=AQIBMOHD&show_icons=true&theme=tokyonight" height="170"/>
 
@@ -148,14 +107,131 @@ Production-ready React application deployed using Docker and Nginx.
 
 ---
 
-## 🎯 Areas of Interest
+## 🌐 Connect With Me
 
-- Cloud Infrastructure
-- Azure Architecture
-- DevOps Engineering
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-aqib-b6b429187/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/AQIBMOHD)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://aqib-portfolio-seven.vercel.app)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aqibmohammad.0002@gmail.com)
+
+---
+
+> ⚡ *Passionate about designing secure cloud infrastructure, automating deployments, and building production-ready Azure environments using Terraform and DevOps best practices.*# 👋 Hi, I'm Md Aqib
+
+🚀 **Full Stack & DevOps Engineer | Azure | Terraform | Azure DevOps | Docker | Linux**
+
+Passionate about building scalable web applications and designing secure, production-grade cloud infrastructure on Microsoft Azure. I enjoy automating infrastructure using Terraform, implementing CI/CD pipelines, and following enterprise DevOps best practices.
+
+---
+
+## 🧰 Tech Stack & Tools
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?logo=azuredevops&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+
+**Cloud:** Microsoft Azure, AWS
+
+**Infrastructure as Code:** Terraform
+
+**DevOps:** Azure DevOps, Git, CI/CD
+
+**Containers:** Docker, Kubernetes (Learning AKS)
+
+**Frontend:** React, Angular, HTML, CSS, JavaScript, Tailwind CSS
+
+**Backend:** Node.js, Express.js, MongoDB
+
+---
+
+## 🧠 Currently Working On
+
+- Production-Grade Azure Infrastructure using Terraform
+- Azure DevOps CI/CD Pipelines
+- Hub-and-Spoke Azure Architecture
 - Infrastructure as Code (IaC)
-- Platform Engineering
-- CI/CD Automation
-- Cloud Security
-- Kubernetes
-- Azure Networking
+- Azure Networking & Security
+- GitOps & Platform Engineering
+- Azure Landing Zones
+- Kubernetes (AKS)
+- Azure Monitor & Log Analytics
+- Azure Firewall & Web Application Firewall (WAF)
+
+---
+
+## 🏗️ Featured Project
+
+### 🚀 Production-Grade Azure Infrastructure Automation (Terraform & Azure DevOps)
+
+Designed and automated an enterprise-grade Azure infrastructure following Infrastructure-as-Code and DevOps best practices.
+
+### Key Highlights
+
+- ✅ Designed Hub-and-Spoke Azure Network Architecture
+- ✅ Configured Azure Application Gateway (Standard_v2)
+- ✅ Implemented VNet Peering and Multi-tier Networking
+- ✅ Created Frontend & Backend Linux Virtual Machines
+- ✅ Implemented Network Security Groups (NSGs)
+- ✅ Refactored monolithic Terraform into reusable modules
+- ✅ Zero-downtime Terraform state migration using `moved` blocks
+- ✅ Azure Blob Storage Remote Backend with State Locking
+- ✅ Dynamic SSH allowlisting using HTTP Data Source
+- ✅ DRY implementation using Terraform Dynamic Blocks
+- ✅ Centralized Naming Convention using Locals
+- ✅ Automated Infrastructure Deployment using Azure DevOps Pipelines
+- ✅ Configured Workload Identity Federation for secure authentication
+
+**Technologies**
+
+Azure • Terraform • Azure DevOps • Docker • Linux • Git • HCL • Application Gateway • VNet Peering • NSG • Azure Storage • CI/CD
+
+---
+
+## 💻 Other Projects
+
+### 🎓 MentorWay
+
+Full-stack MERN e-learning platform with authentication, instructor dashboard, course management, custom video player, and Razorpay payment integration.
+
+### 🍔 Swiggy Food App
+
+Responsive React application consuming REST APIs with reusable component architecture.
+
+### ❤️ Raah Foundation Website
+
+Production-ready React application deployed using Docker and Nginx.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AQIBMOHD&show_icons=true&theme=tokyonight" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AQIBMOHD&layout=compact&theme=tokyonight" height="170"/>
+
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-aqib-b6b429187/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/AQIBMOHD)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://aqib-portfolio-seven.vercel.app)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aqibmohammad.0002@gmail.com)
+
+---
+
+> ⚡ *Passionate about designing secure cloud infrastructure, automating deployments, and building production-ready Azure environments using Terraform and DevOps best practices.*
