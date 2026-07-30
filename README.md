@@ -85,6 +85,11 @@ Azure • Terraform • Azure DevOps • Docker • Linux • Git • HCL • Ap
 
 Full-stack MERN e-learning platform with authentication, instructor dashboard, course management, custom video player, and Razorpay payment integration.
 
+### 🏗️ Production-Grade Azure Infrastructure Automation](Terraform & DevOps)
+
+Enterprise Azure Infrastructure built with Terraform and Azure DevOps featuring Hub-Spoke networking, Application Gateway, modular Terraform, remote backend, state locking, GitOps CI/CD, and Workload Identity Federation.
+
+
 ### 🍔 Swiggy Food App
 
 Responsive React application consuming REST APIs with reusable component architecture.
